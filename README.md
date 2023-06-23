@@ -1,4 +1,3 @@
 # flipcart
 #Flipcart with the use of basic HTML and CSS
-https://github.com/zulkefal/flipcart/assets/93879863/c8946f55-2c3e-4008-8f8a-4f5cba497ddb
-
+#https://github.com/zulkefal/flipcart/assets/93879863/b92877e0-dcce-4ed1-a1e4-74fde305b125
